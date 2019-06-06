@@ -9,6 +9,6 @@ services:
     restart: on-failure
   redis:
     image: "redis:alpine"
-    cpus: 0.1
+    cpus: 0.2
     mem_limit: 128M
     restart: on-failure
