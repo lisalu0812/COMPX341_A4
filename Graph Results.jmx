@@ -135,11 +135,6 @@
           <boolProp name="CounterConfig.per_user">false</boolProp>
         </CounterConfig>
         <hashTree/>
-        <GaussianRandomTimer guiclass="GaussianRandomTimerGui" testclass="GaussianRandomTimer" testname="Gaussian Random Timer" enabled="true">
-          <stringProp name="ConstantTimer.delay">2000</stringProp>
-          <stringProp name="RandomTimer.range">2000.0</stringProp>
-        </GaussianRandomTimer>
-        <hashTree/>
       </hashTree>
     </hashTree>
   </hashTree>
